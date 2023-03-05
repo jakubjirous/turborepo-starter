@@ -2,7 +2,7 @@
   "name": "turborepo-starter",
   "private": true,
   "scripts": {
-    "build": "turbo run build --output-logs=errors-only",
+    "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "clean": "turbo run clean",
