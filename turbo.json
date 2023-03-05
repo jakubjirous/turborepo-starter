@@ -27,18 +27,10 @@
     },
     "dev": {
       "cache": false,
-      "persistent": true,
-      "outputs": [
-        "dist/**",
-        "build/**"
-      ]
+      "persistent": true
     },
     "clean": {
-      "cache": false,
-      "outputs": [
-        "dist/**",
-        "build/**"
-      ]
+      "cache": false
     }
   }
 }
