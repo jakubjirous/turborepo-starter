@@ -5,6 +5,7 @@ module.exports = {
   ignorePatterns: ["**/*"],
   extends: ["next", "turbo", "prettier"],
   rules: {
+    "no-console": 2,
     "@next/next/no-html-link-for-pages": "off",
   },
   parserOptions: {
