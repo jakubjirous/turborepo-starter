@@ -1,6 +1,6 @@
 // styles
-import "./styles.css";
+import "./styles/globals.css";
 
 // components
-export * from "./Button";
-export * from "./Card";
+export * from "./components/Button/Button";
+export * from "./components/Card/Card";
